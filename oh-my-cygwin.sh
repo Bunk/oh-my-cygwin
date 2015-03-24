@@ -12,7 +12,7 @@ wget --no-check-certificate "https://github.com/john-peterson/apt-cyg/raw/path/a
 chmod +x "${APT_CYG}"
 
 # install some stuff like vim and git
-"${APT_CYG}" install zsh mintty vim curl git openssh
+"${APT_CYG}" install zsh mintty vim curl  openssh
 
 
 # install OH MY ZSH
