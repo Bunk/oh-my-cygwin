@@ -7,7 +7,7 @@ I took care of installing and configuring some packages so that you have vim, gi
 
 # Setup
 
-Install [cygwin](http://www.cygwin.com/) with wget, curl, and git.
+Install [cygwin](http://www.cygwin.com/) with __wget__ and __git__.
 
 Create a cygwin passwd file (cygwin doesn't use one for user management, so you need to create it to change the default shell)
 
